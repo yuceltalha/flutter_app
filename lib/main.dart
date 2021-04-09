@@ -102,7 +102,7 @@ class _MyAppState extends State<MyApp> {
                   width: 5.0,
                 ),
                 Expanded(
-                  child: Text("Güncelle"),
+                  child: Text("Güncelleee"),
                 ),
                 Icon(Icons.update),
               ],
